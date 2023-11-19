@@ -28,3 +28,7 @@ $ npm run dev
 ```
 - O link do localhost será gerado, basta acessar.
 
+## Vercel
+
+Veja o deployed do projeto no Vercel [LINK](https://api-via-cep-navy.vercel.app/)
+
