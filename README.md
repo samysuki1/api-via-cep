@@ -1,6 +1,6 @@
 <h1 align="center"> API-Via-CEP </h1>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -9,12 +9,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled Components
 - API Via CEP
 
-## 💻 Projeto
+## Projeto
 
  Integramos ao nosso projeto a API via CEP. Esta API permite consultar Códigos de Endereçamento Postal (CEP) do Brasil.<br>
  Você pode consultar a documentação através [DESSE LINK](https://viacep.com.br/)
 
-## 🛠️ Instalação das dependências
+## Instalação das dependências
 
 - Após baixar o repositório em seu terminal digitar o comando  para instalar as dependências:
 
