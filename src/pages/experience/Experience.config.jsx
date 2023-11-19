@@ -1,12 +1,12 @@
 export const EXPERIENCE_CONFIG = {
   TITLE: "Experiência",
   DATA: {
-    COMPANY: "Top Internacional",
+    COMPANY: "Top Internacional LTDA",
     ROLE: "Coordenadora de E-commerce",
     DESCRIPTION: {
       TITLE: "Descrição das atividades:",
       DATA: [
-        "Perfil analítico e empreendedo",
+        "Perfil analítico e empreendedor",
         "Gestão comercial e estratégia corporativa",
         "Desenvolvimento de novas features",
       ],
