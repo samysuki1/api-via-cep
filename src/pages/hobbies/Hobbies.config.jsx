@@ -3,7 +3,7 @@ export const HOBBIES_CONFIG = {
   DATA: [
     "Gosto de tocar violão e cantar",
       "Aulas de Dança várias modalidades",
-      "Assistir séries e filmes",
+      "Assistir séries, filmes e Rock 'n' Roll",
       
   ],
 };
