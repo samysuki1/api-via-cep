@@ -30,5 +30,5 @@ $ npm run dev
 
 ## Vercel
 
-Veja o deployed do projeto no Vercel [LINK](https://api-via-cep-navy.vercel.app/)
+Veja o deploy do projeto no Vercel [LINK](https://api-via-cep-navy.vercel.app/)
 
