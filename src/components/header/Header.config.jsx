@@ -1,5 +1,5 @@
 export const HEADER_CONFIG = {
-  TITLE: "</> Samantha Silva",
+  TITLE: "Samantha Silva",
   NAV: [
     {
       path: "/",
